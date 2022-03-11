@@ -1,2 +1,1 @@
-# 2048 Clone Final
- Remaking 2048
+# Link for gameplay: https://play.unity.com/mg/other/2048-clone
